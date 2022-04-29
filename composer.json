@@ -2,6 +2,7 @@
     "name": "falcon/laravel-medialibrary-prune-files",
     "type": "package",
     "description": "Laravel package to prune stale files created by spatie medialibrary",
+    "license": "MIT",
     "authors": [
         {
             "name": "Bogdan Mucenica",
