@@ -1,7 +1,7 @@
 {
     "name": "falcon/laravel-medialibrary-prune-files",
     "type": "package",
-    "description": "Upgrade falcon CMS from v1 to v2",
+    "description": "Laravel package to prune stale files created by spatie medialibrary",
     "authors": [
         {
             "name": "Bogdan Mucenica",
